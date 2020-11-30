@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Onedrive/Clion/Functions/main.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+pointer.c
+/mnt/d/Onedrive/Clion/Functions/pointer.c
+
+/mnt/d/Onedrive/Clion/Functions/pointer.c
+stdio.h
+-
+stdlib.h
+-
+
